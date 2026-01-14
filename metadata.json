@@ -1,0 +1,7 @@
+{
+  "name": "DESPACHOS FITBARZ 2025 PRO SERIES",
+  "description": "Sistema de control de inventario y despacho para kits de gimnasio con escaneo QR y trazabilidad.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
